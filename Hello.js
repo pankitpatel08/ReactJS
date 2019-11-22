@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hello = () => {
     // return (
-    //     <div>
+    //     <div className='dummyClass'>
     //         <h1> Hello, Pankit!</h1>
     //     </div>
     // )
